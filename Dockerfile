@@ -1,4 +1,4 @@
-FROM docker.bluelight.limited:5000/bluelightltd/microkube-apt-image
+FROM docker.bluelight.limited:5000/bluelightltd/microkube-kubectl-image
 
 
     
